@@ -52,6 +52,35 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💻 <a href="https://github.com/zvinn/a-plus-laptops">A Plus+ Laptops</a></h3>
+      <p align="center">High-performance gaming laptops store & ERP suite. Features full Admin Dashboard (Accounting, Invoices, CRM, Inventory), AI Concierge, and complete Vitest & Cypress test coverage.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-039BE5?logo=firebase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">❤️ <a href="https://github.com/zvinn/MERYT">MERYT</a></h3>
+      <p align="center">Private interactive couple web application. Real-time Firebase synchronization, couple games, digital memory vault, audio player, and Gemini AI romantic suggestions.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?logo=google&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
@@ -61,4 +90,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zvinn&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📬 Get In Touch
+<p align="center">
+  <a href="mailto:mhamed.saad.ibrahim@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/zvinn">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
