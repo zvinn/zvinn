@@ -83,12 +83,12 @@ A modern, full-featured E-Commerce and Enterprise Resource Planning (ERP) platfo
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zvinn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="zvinn's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=zvinn&theme=tokyonight&hide_border=true" alt="zvinn's Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zvinn&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zvinn&theme=tokyonight" alt="zvinn's GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zvinn&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
