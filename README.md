@@ -52,44 +52,43 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Project
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💻 <a href="https://github.com/zvinn/a-plus-laptops">A Plus+ Laptops</a></h3>
-      <p align="center">High-performance gaming laptops store & ERP suite. Features full Admin Dashboard (Accounting, Invoices, CRM, Inventory), AI Concierge, and complete Vitest & Cypress test coverage.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-039BE5?logo=firebase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">❤️ <a href="https://github.com/zvinn/MERYT">MERYT</a></h3>
-      <p align="center">Private interactive couple web application. Real-time Firebase synchronization, couple games, digital memory vault, audio player, and Gemini AI romantic suggestions.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?logo=google&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 💻 [A Plus+ | High-Performance Gaming Laptops & ERP Suite](https://github.com/zvinn/a-plus-laptops)
+
+<p>
+A modern, full-featured E-Commerce and Enterprise Resource Planning (ERP) platform for high-performance laptops.
+</p>
+
+[![React](https://img.shields.io/badge/React_18-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase_Backend-039BE5?logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![Vitest](https://img.shields.io/badge/Vitest_Covered-6E9F18?logo=vitest&logoColor=white)](https://vitest.dev/)
+[![Cypress](https://img.shields.io/badge/Cypress_E2E-17202C?logo=cypress&logoColor=white)](https://www.cypress.io/)
+
+<p align="left">
+<b>Key Highlights:</b><br/>
+• <b>Admin Operations Suite:</b> Built-in Accounting ledger, Invoicing generator, CRM dashboard, and Live Inventory Manager.<br/>
+• <b>AI Concierge & Smart Search:</b> Context-aware recommendations and semantic hardware search.<br/>
+• <b>Robust Code Quality:</b> 100% unit and integration test coverage across services, hooks, and context providers.<br/>
+• <b>PWA Ready:</b> Offline fallback support and seamless mobile web experience.
+</p>
+
+</div>
 
 ---
 
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zvinn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="zvinn's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zvinn&theme=tokyonight&hide_border=true" alt="zvinn's Streak Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zvinn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="zvinn's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=zvinn&theme=tokyonight&hide_border=true" alt="zvinn's Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zvinn&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zvinn&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
 
 ---
