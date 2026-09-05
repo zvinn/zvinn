@@ -52,31 +52,32 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
-<div align="center">
-
-### 💻 [A Plus+ | High-Performance Gaming Laptops & ERP Suite](https://github.com/zvinn/a-plus-laptops)
-
-<p>
-A modern, full-featured E-Commerce and Enterprise Resource Planning (ERP) platform for high-performance laptops.
-</p>
-
-[![React](https://img.shields.io/badge/React_18-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Firebase](https://img.shields.io/badge/Firebase_Backend-039BE5?logo=firebase&logoColor=white)](https://firebase.google.com/)
-[![Vitest](https://img.shields.io/badge/Vitest_Covered-6E9F18?logo=vitest&logoColor=white)](https://vitest.dev/)
-[![Cypress](https://img.shields.io/badge/Cypress_E2E-17202C?logo=cypress&logoColor=white)](https://www.cypress.io/)
-
-<p align="left">
-<b>Key Highlights:</b><br/>
-• <b>Admin Operations Suite:</b> Built-in Accounting ledger, Invoicing generator, CRM dashboard, and Live Inventory Manager.<br/>
-• <b>AI Concierge & Smart Search:</b> Context-aware recommendations and semantic hardware search.<br/>
-• <b>Robust Code Quality:</b> 100% unit and integration test coverage across services, hooks, and context providers.<br/>
-• <b>PWA Ready:</b> Offline fallback support and seamless mobile web experience.
-</p>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💻 <a href="https://github.com/zvinn/a-plus-laptops">A Plus+ Laptops & ERP</a></h3>
+      <p align="center">Enterprise E-Commerce & ERP platform with complete Admin operations (Accounting ledger, Invoicing generator, CRM, Inventory), AI Concierge, and comprehensive Vitest & Cypress test coverage.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_18-20232A?logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-039BE5?logo=firebase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ <a href="https://github.com/zvinn/fixsy-app">Fixsy Services Marketplace</a></h3>
+      <p align="center">On-demand home services platform with localized multimodal AI diagnosis ("الصنايعي البرنس"), real-time geolocation weather advisories, Leaflet maps, and full triple-role portals.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_18-20232A?logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
