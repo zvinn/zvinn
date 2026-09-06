@@ -116,6 +116,14 @@
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zvinn/zvinn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zvinn/zvinn/output/github-contribution-grid-snake.svg">
+    <img alt="Zain's Contribution Grid Snake" src="https://raw.githubusercontent.com/zvinn/zvinn/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zvinn&theme=tokyonight" alt="zvinn's GitHub Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zvinn&theme=tokyonight" alt="Top Languages" />
 </p>
