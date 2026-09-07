@@ -134,7 +134,7 @@
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zvinn&theme=tokyonight&hide_border=true" alt="zvinn's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=zvinn&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=0000" alt="zvinn's Streak Stats" />
 </p>
 
 <p align="center">
@@ -147,7 +147,11 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zvinn&theme=tokyonight" alt="zvinn's GitHub Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zvinn&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zvinn&theme=tokyonight" alt="zvinn's Stats" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zvinn&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zvinn&theme=tokyonight" alt="Most Used Language" height="150" />
 </p>
 
 ---
