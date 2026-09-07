@@ -17,7 +17,7 @@
 - 🎓 **Flagship Product:** Creator of **[Acadify](https://github.com/zvinn/acadify)** (Production-Ready Multi-Role LMS & Academy Platform)
 - 🔭 **Focus:** Modern Web Architectures, Flutter Mobile, and Autonomous AI Agents / Digital Twins.
 - 💡 **Philosophy:** Clean Code, Clean Architecture, complete test coverage, and frictionless user experiences.
-- 📍 **Based in:** Egypt 🇪🇬
+- 📍 **Based in:** Alexandria, Egypt 🇪🇬
 - ⚡ **Fun Fact:** I treat code architecture and system design like crafting fine art.
 
 ---
