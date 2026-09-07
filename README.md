@@ -14,6 +14,7 @@
 
 ### 🚀 About Me
 - 💼 **Role:** Co-founder & CTO at **[Fixsy](https://github.com/zvinn/fixsy-app)** | Hardware Specialist at **[A Plus+](https://github.com/zvinn/a-plus-laptops)**
+- 🎓 **Flagship Product:** Creator of **[Acadify](https://github.com/zvinn/acadify)** (Production-Ready Multi-Role LMS & Academy Platform)
 - 🔭 **Focus:** Modern Web Architectures, Flutter Mobile, and Autonomous AI Agents / Digital Twins.
 - 💡 **Philosophy:** Clean Code, Clean Architecture, complete test coverage, and frictionless user experiences.
 - 📍 **Based in:** Egypt 🇪🇬
@@ -102,6 +103,27 @@
         <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
         <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 <a href="https://github.com/zvinn/acadify">Acadify (LMS & Academy)</a></h3>
+      <p align="center">Production-ready Multi-Role LMS & Academy Education Platform with isolated Admin, Instructor, and Student portals. Built with Next.js 16 App Router, React 19, native Arabic RTL, student digital wallet, and real-time order chat.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js_16-000000?logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_19-20232A?logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ <a href="https://acadify-platform.vercel.app">Acadify Live Demo</a></h3>
+      <p align="center">Live interactive cloud demo deployed on Vercel with zero-backend demo bypass. Allows prospective clients to test full Admin KPI dashboards, dynamic country pricing, course orders, and multi-currency billing.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Vercel_Live-000000?logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Demo_Mode-22C55E?logo=checkmarx&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bilingual_RTL-FF6F00?logo=google-translate&logoColor=white" />
       </p>
     </td>
   </tr>
