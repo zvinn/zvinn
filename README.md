@@ -88,12 +88,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛠️ <a href="https://github.com/zvinn/fixsy-app">Fixsy Web Platform</a></h3>
-      <p align="center">On-demand home services marketplace with localized multimodal AI diagnosis ("صنايعي مصر"), live geolocation weather advisories, and Leaflet maps.</p>
+      <h3 align="center">🛠️ <a href="https://fixsy-app.vercel.app">Fixsy Startup (Live Web App)</a></h3>
+      <p align="center">On-demand home maintenance marketplace startup with localized multimodal AI diagnosis ("الصنايعي البرنس"), live weather advisories, interactive Leaflet maps, and PWA offline support.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React_18-20232A?logo=react&logoColor=61DAFB" />
+        <a href="https://fixsy-app.vercel.app"><img src="https://img.shields.io/badge/Vercel_Live-00C7B7?logo=vercel&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/Vite_7-646CFF?logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript_5-3178C6?logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_AI-4285F4?logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -118,11 +119,11 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ <a href="https://acadify-platform.vercel.app">Acadify Live Demo</a></h3>
-      <p align="center">Live interactive cloud demo deployed on Vercel with zero-backend demo bypass. Allows prospective clients to test full Admin KPI dashboards, dynamic country pricing, course orders, and multi-currency billing.</p>
+      <h3 align="center">⚡ <a href="https://acadify-platform.vercel.app">Acadify Live Demo & Gumroad</a></h3>
+      <p align="center">Live interactive cloud demo on Vercel with full Admin, Instructor, and Student portals. Complete production source code package available for commercial purchase on Gumroad.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Vercel_Live-000000?logo=vercel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Demo_Mode-22C55E?logo=checkmarx&logoColor=white" />
+        <a href="https://acadify-platform.vercel.app"><img src="https://img.shields.io/badge/Vercel_Live-000000?logo=vercel&logoColor=white" /></a>
+        <a href="https://mhamedsaad8.gumroad.com/l/acadify-lms"><img src="https://img.shields.io/badge/Gumroad-Buy_Now_%2443-FF90E8?logo=gumroad&logoColor=black" /></a>
         <img src="https://img.shields.io/badge/Bilingual_RTL-FF6F00?logo=google-translate&logoColor=white" />
       </p>
     </td>
