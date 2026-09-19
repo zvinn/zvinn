@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-- 💼 **Role:** Co-founder & CTO at **[Fixsy](https://github.com/zvinn/fixsy-app)** | Hardware Specialist at **[A Plus+](https://github.com/zvinn/a-plus-laptops)**
+- 💼 **Role:** Co-founder & CTO at **[Fixsy](https://github.com/zvinn/fixsy-app)** | Creator of **[Meryt](https://github.com/zvinn/MERYT)** | Hardware Specialist at **[A Plus+](https://github.com/zvinn/a-plus-laptops)**
 - 🎓 **Flagship Product:** Creator of **[Acadify](https://github.com/zvinn/acadify)** (Production-Ready Multi-Role LMS & Academy Platform)
 - 🔭 **Focus:** Modern Web Architectures, Flutter Mobile, and Autonomous AI Agents / Digital Twins.
 - 💡 **Philosophy:** Clean Code, Clean Architecture, complete test coverage, and frictionless user experiences.
@@ -125,6 +125,27 @@
         <a href="https://acadify-platform.vercel.app"><img src="https://img.shields.io/badge/Vercel_Live-000000?logo=vercel&logoColor=white" /></a>
         <a href="https://mhamedsaad8.gumroad.com/l/acadify-lms"><img src="https://img.shields.io/badge/Gumroad-Buy_Now_%2443-FF90E8?logo=gumroad&logoColor=black" /></a>
         <img src="https://img.shields.io/badge/Bilingual_RTL-FF6F00?logo=google-translate&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💜 <a href="https://github.com/zvinn/MERYT">Meryt — Private Couple PWA</a></h3>
+      <p align="center">Next-generation private Progressive Web App for two. Features real-time Firestore chat, live typing indicator, interactive Love Map (Leaflet), 5 couple games, countdown time capsule, and AI Love Counselor.</p>
+      <p align="center">
+        <a href="https://github.com/zvinn/MERYT"><img src="https://img.shields.io/badge/Next.js_14-000000?logo=nextdotjs&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/TypeScript_5-3178C6?logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase_12-FFCA28?logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/PWA_Ready-success?logo=pwa&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 <a href="https://zvinn.github.io">Personal Portfolio Website</a></h3>
+      <p align="center">Interactive engineering portfolio showcasing full-stack SaaS products, autonomous AI agent architectures, mobile apps, and verified GitHub metrics with dark mode and smooth micro-animations.</p>
+      <p align="center">
+        <a href="https://zvinn.github.io"><img src="https://img.shields.io/badge/Live_Portfolio-22C55E?logo=github&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/Single_Page-646CFF?logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/SEO_Optimized-FF6F00?logo=google&logoColor=white" />
       </p>
     </td>
   </tr>
